@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Chivo+Mono:wght@100&family=Poppins:ital,wght@1,100&display=swap');
+#heading{
+    font-size: 20px;
+    color: rgb(48, 41, 96);
+    background-color: bisque;
+    font-family: 'Chivo Mono', monospace;
+}
+.paragraph{
+    font-size: 16px;
+    color: black;
+    background-color:burlywood;
+    font-family: 'Chivo Mono', monospace; 
+}
+#p2{
+    font-size: 16px;
+    color: black;
+    background-color:rgb(95, 127, 89);
+    font-family: 'Chivo Mono', monospace; 
+}
+#p3{
+    font-size: 16px;
+    color: black;
+    background-color:rgb(72, 109, 122);
+    font-family: 'Chivo Mono', monospace;
+}

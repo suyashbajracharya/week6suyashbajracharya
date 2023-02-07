@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Chivo+Mono:wght@100&family=Poppins:ital,wght@1,100&display=swap');
+
+body{
+    /* background-image:url(photo.jpg) ; */
+    /* background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; */
+    background: linear-gradient( red,violet,orange,blue,purple,pink,yellow,indigo,green);
+
+}
+#p1{
+    font-size: 20px;
+    color: blue;
+    background-color: coral;
+    font-family: 'Chivo Mono', monospace;
+    border: dotted;
+    width: 800px;
+    height: 500px;
+    margin: 50px;
+    padding: 10px;
+    margin-left: 600px;
+}
+#p2{
+    font-size: 20px;
+    color: rgb(48, 41, 96);
+    background-color: bisque;
+    font-family: 'Chivo Mono', monospace;
+    border: dashed;
+    width: 800px;
+    height: 500px;
+}
+#p3{
+    font-size: 20px;
+    color: rgb(82, 54, 108);
+    background-color: rgb(117, 148, 140);
+    font-family: 'Chivo Mono', monospace;
+    border: display;
+    width: 800px;
+    height: 500px;
+    margin-left: 600px;
+}

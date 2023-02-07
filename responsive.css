@@ -1,0 +1,30 @@
+img{
+    max-width: 100%;
+}
+p{
+    font-size: 16px;
+    color: black;
+    background-color:burlywood;
+    font-family: 'Chivo Mono', monospace; 
+}
+
+/* for laptop*/
+@media screen and (min-width:769px)and(max-width:1024px){
+    img{
+        max-width: 100%;
+    }
+}
+    /* for tablet*/
+@media screen and (min-width:481px)and(max-width:768px){
+    img{
+        max-width: 100%;
+    }
+}
+
+    /* for mobile*/
+@media screen and (min-width:320px)and(max-width:480px){
+    img{
+        max-width: 100%;
+    }
+}
+
